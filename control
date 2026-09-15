@@ -1,0 +1,11 @@
+Package: com.jijiang.dyliveviewercount
+Name: DYLiveViewerCount
+Version: 1.0-1
+Architecture: iphoneos-arm
+Description: 抖音推荐页直播真实观众数显示插件 - 仅在刷到直播卡片时显示真实人数，支持关闭、精准和模糊模式
+Maintainer: jijiang2333
+Author: jijiang2333
+Section: Tweaks
+Priority: optional
+Depends: firmware (>= 14.0), mobilesubstrate
+Homepage: https://github.com/jijiang2333/DYLiveViewerCount
